@@ -1,6 +1,6 @@
 /**
  * 
- * Library for Google Firebase (HTML Javascript / Script)
+ * Library for Google Firebase Realtime Database (HTML Javascript / Script)
  * Provided by GitHub User - wlw1106 [Email: wlwict2019@gmail.com]
  * 
  * Tips:
