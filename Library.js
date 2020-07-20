@@ -46,7 +46,6 @@ var config = {
 firebase.initializeApp(config); // initialize the Firebase
 
 var database = firebase.database(); // Set Variable to access easier
-var firebaseCollection = database.ref().child(""); // ** Optional
 
 
 
